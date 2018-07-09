@@ -1,3 +1,5 @@
+# Ethereum Blockchain
+
 # Pre-Requisites #
 To install all of the dependencies for this project you need to have the following things installed:
 
@@ -149,4 +151,4 @@ This use case is only applicable to the unencrypted contract (the encrypted cont
     - Confirm the MetaMask transaction notification
 9. Switch to Bob's MetaMask account.
 10. Go to the View Patient Data page. Enter Alice's public address and submit. Alice's data records and authors are listed.
-# Ethereum Blockchain
+
