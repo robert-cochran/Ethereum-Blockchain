@@ -1,4 +1,5 @@
 # Ethereum Blockchain
+A healthcare data server that stores medical records on a blockchain utilizing a standard unencrypted system and an encrypted system to meet privacy needs from using a public blockchain system.
 
 # Pre-Requisites #
 To install all of the dependencies for this project you need to have the following things installed:
